@@ -13,6 +13,60 @@
   <a href="mailto:venkatakalyan.bavisetti@varsun.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" /></a>
 </p>
 
+---
+
+## 🎨 Featured Banner
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kbavisetti/kbavisetti/main/banner.jpg" alt="Professional Banner" style="border-radius: 10px; width: 100%; max-width: 800px; animation: fadeInScale 1s ease-in-out;" />
+</div>
+
+<style>
+  @keyframes fadeInScale {
+    0% {
+      opacity: 0;
+      transform: scale(0.95);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+  
+  @keyframes slideInRight {
+    0% {
+      opacity: 0;
+      transform: translateX(50px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  
+  @keyframes slideInLeft {
+    0% {
+      opacity: 0;
+      transform: translateX(-50px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  
+  @keyframes pulse {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.7;
+    }
+  }
+</style>
+
+---
+
 <p align="center">
   Building robust, scalable backend systems and full-stack solutions with a focus on .NET technologies, database optimization, and cloud deployment.
 </p>
@@ -33,7 +87,7 @@
 
 ## 💻 Technical Skills
 
-### Backend Development
+### 🔵 Backend Development
 <p align="left">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img alt=".NET 8" src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -44,7 +98,7 @@
   <img alt="JWT Auth" src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-### Database Development
+### 💾 Database Development
 <p align="left">
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -54,7 +108,7 @@
   <img alt="Stored Procedures" src="https://img.shields.io/badge/Stored%20Procedures-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
 <p align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -63,7 +117,7 @@
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 <p align="left">
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img alt="IIS" src="https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=iis&logoColor=white" />
@@ -71,7 +125,7 @@
   <img alt="Environment Config" src="https://img.shields.io/badge/Env%20Config-4CAF50?style=for-the-badge&logo=config&logoColor=white" />
 </p>
 
-### Testing & Quality Assurance
+### 🧪 Testing & Quality Assurance
 <p align="left">
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img alt="Manual Testing" src="https://img.shields.io/badge/Manual%20Testing-FF9800?style=for-the-badge&logo=testing&logoColor=white" />
@@ -79,7 +133,7 @@
   <img alt="Automation" src="https://img.shields.io/badge/Test%20Automation-2196F3?style=for-the-badge&logo=automation&logoColor=white" />
 </p>
 
-### API & Integration
+### 🔗 API & Integration
 <p align="left">
   <img alt="Swagger/OpenAPI" src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -88,7 +142,7 @@
   <img alt="reCAPTCHA" src="https://img.shields.io/badge/reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-### Version Control & Collaboration
+### 📚 Version Control & Collaboration
 <p align="left">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -141,14 +195,23 @@
 
 ---
 
-## 🌟 Notable Projects
+## 🌟 Highlighted Expertise
 
-I have experience developing and maintaining:
-- Complex backend systems with multiple microservices
-- Data-heavy applications requiring optimization and migration
-- Full-stack web applications with modern authentication
-- Integration solutions connecting disparate systems
-- Cloud-based deployments with high availability requirements
+<div align="center">
+  
+### 🔧 .NET & Backend Mastery
+Specialized in building enterprise-grade applications using the latest .NET technologies
+  
+### 📈 Database Excellence  
+Expert in SQL Server optimization, complex migrations, and data layer architecture
+  
+### ☁️ Cloud-Ready Solutions
+Azure deployment and IIS administration for production environments
+
+### 🚀 Full-Stack Capabilities
+End-to-end development from backend APIs to responsive frontends
+
+</div>
 
 ---
 
@@ -187,6 +250,13 @@ I have experience developing and maintaining:
 
 <div align="center">
   
-  ### "Code is read much more often than it is written." – Guido van Rossum
+  ### 💡 "Code is read much more often than it is written." – Guido van Rossum
   
 </div>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/kbavisetti?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/kbavisetti?style=social" alt="GitHub stars" />
+</p>
