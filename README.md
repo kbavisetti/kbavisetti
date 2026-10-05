@@ -2,73 +2,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kalyan+Bavisetti;Full+Stack+%26+Backend+Developer;.NET+%7C+C%23+%7C+Azure" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Welcome to My GitHub Profile 👋</h1>
-
-<p align="center">
-  <strong>Software Developer | Backend Specialist | .NET Enthusiast</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kbavisetti?tab=repositories"><img src="https://img.shields.io/badge/GitHub-kbavisetti-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:venkatakalyan.bavisetti@varsun.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" /></a>
-</p>
-
 ---
 
-## 🎨 Featured Banner
+## 👋 Welcome to My GitHub Profile
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kbavisetti/kbavisetti/main/banner.jpg" alt="Professional Banner" style="border-radius: 10px; width: 100%; max-width: 800px; animation: fadeInScale 1s ease-in-out;" />
+  <p><strong>Software Developer | Backend Specialist | .NET Enthusiast</strong></p>
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-kbavisetti-181717?style=for-the-badge&logo=github)](https://github.com/kbavisetti)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:venkatakalyan.bavisetti@varsun.com)
 </div>
-
-<style>
-  @keyframes fadeInScale {
-    0% {
-      opacity: 0;
-      transform: scale(0.95);
-    }
-    100% {
-      opacity: 1;
-      transform: scale(1);
-    }
-  }
-  
-  @keyframes slideInRight {
-    0% {
-      opacity: 0;
-      transform: translateX(50px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateX(0);
-    }
-  }
-  
-  @keyframes slideInLeft {
-    0% {
-      opacity: 0;
-      transform: translateX(-50px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateX(0);
-    }
-  }
-  
-  @keyframes pulse {
-    0%, 100% {
-      opacity: 1;
-    }
-    50% {
-      opacity: 0.7;
-    }
-  }
-</style>
 
 ---
 
 <p align="center">
-  Building robust, scalable backend systems and full-stack solutions with a focus on .NET technologies, database optimization, and cloud deployment.
+  💻 Building robust, scalable backend systems and full-stack solutions with a focus on .NET technologies, database optimization, and cloud deployment.
 </p>
 
 ---
@@ -197,21 +145,11 @@
 
 ## 🌟 Highlighted Expertise
 
-<div align="center">
-  
-### 🔧 .NET & Backend Mastery
-Specialized in building enterprise-grade applications using the latest .NET technologies
-  
-### 📈 Database Excellence  
-Expert in SQL Server optimization, complex migrations, and data layer architecture
-  
-### ☁️ Cloud-Ready Solutions
-Azure deployment and IIS administration for production environments
-
-### 🚀 Full-Stack Capabilities
-End-to-end development from backend APIs to responsive frontends
-
-</div>
+| 🔧 Backend Mastery | 📈 Database Excellence | ☁️ Cloud Solutions | 🚀 Full-Stack |
+|---|---|---|---|
+| Enterprise .NET applications | SQL Server optimization | Azure deployment | End-to-end development |
+| ASP.NET Core APIs | Complex migrations | IIS administration | Responsive frontends |
+| Microservices patterns | Data layer architecture | Environment config | API integrations |
 
 ---
 
@@ -235,18 +173,18 @@ End-to-end development from backend APIs to responsive frontends
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/kbavisetti">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:venkatakalyan.bavisetti@varsun.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-kbavisetti-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kbavisetti)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:venkatakalyan.bavisetti@varsun.com)
+  
+</div>
 
 <p align="center">
   <em>Feel free to explore my repositories, check out my recent projects, or reach out to collaborate!</em>
 </p>
+
+---
 
 <div align="center">
   
@@ -257,6 +195,10 @@ End-to-end development from backend APIs to responsive frontends
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/kbavisetti?style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/kbavisetti?style=social" alt="GitHub stars" />
+  <a href="https://github.com/kbavisetti?tab=followers">
+    <img src="https://img.shields.io/github/followers/kbavisetti?style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/kbavisetti?tab=repositories">
+    <img src="https://img.shields.io/github/stars/kbavisetti?style=social" alt="GitHub stars" />
+  </a>
 </p>
