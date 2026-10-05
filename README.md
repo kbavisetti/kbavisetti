@@ -4,7 +4,7 @@
 
 ---
 
-##                              👋 Welcome to My GitHub Profile
+## 👋 Welcome to My GitHub Profile
 
 <div align="center">
   <p><strong>Software Developer | Backend Specialist | .NET Enthusiast</strong></p>
